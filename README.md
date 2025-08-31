@@ -80,7 +80,7 @@ This project provides a framework for analyzing and comparing various pathfindin
 
 ## Understanding the Output
 
-After running the script, the `proper` directory will contain several new files:
+After running the script, the directory you run the script in will contain several new files:
 
 - **Trajectory Visualizations (`maze_*.png`):** These images show the paths taken by the agents.
 - **Comparison Visualizations (`comparison_*.png`):** These images show side-by-side comparisons of the different policies.
